@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Drag Papers ❤️</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Short+Stack&family=Homemade+Apple&display=swap">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="paper heart"></div>
+
+  <div class="paper image">
+    <p>and I fell in</p>
+    <p>Love with You 😍</p>
+    <img src="images/1.jpeg" />
+  </div>
+
+  <div class="paper image">
+    <p>You are the reason</p>
+    <p>for my smile ❤️</p>
+    <img src="images/4.jpeg" />
+  </div>
+
+  <div class="paper image">
+    <p>Every moment with you</p>
+    <p>is my favorite ❤️</p>
+    <img src="images/5.jpeg" />
+  </div>
+
+  <div class="paper red">
+    <p class="p1">and My Favorite</p>
+    <p class="p2">Person 😍</p>
+  </div>
+
+  <div class="paper">
+    <p class="p1">You are Cute</p>
+    <p class="p1">Amazing <span style="color: red !important;">❤️</span></p>
+  </div>
+
+  <div class="paper">
+    <p class="p1">Drag the papers to move!</p>
+  </div>
+
+  <script src="script.js"></script>
+
+</body>
+</html>
